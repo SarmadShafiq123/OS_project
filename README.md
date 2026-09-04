@@ -1,4 +1,4 @@
 # OS_project
 # SHELL IMPLEMENTAION
-# Run Using MinGW
-# Used vscode
+# Run Using the MinGW Command
+# Used vscode 
